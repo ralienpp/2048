@@ -1,3 +1,13 @@
+# What is it?
+
+This is a superficial clone of 2048, made for academic purposes. There are nothing but cosmetic changes, as the purpose of the exercise is to simply deploy a web-app on some hosting service as a proof of concept.
+
+All the text below is taken 'as is' from the original repository.
+
+
+
+
+
 # 2048
 A small clone of [1024](https://play.google.com/store/apps/details?id=com.veewo.a1024), based on [Saming's 2048](http://saming.fr/p/2048/) (also a clone).
 
